@@ -3,4 +3,4 @@ PyPDF2
 langchain_core
 langchain_openai
 reportlab
-docx
+python-docx
