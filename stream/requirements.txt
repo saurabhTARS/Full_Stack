@@ -1,6 +1,0 @@
-docx2txt==0.8
-PyPDF2==1.26.0
-streamlit==1.7.0
-langchain-core==<version>
-langchain-openai==<version>
-reportlab==3.6.1
